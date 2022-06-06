@@ -27,7 +27,7 @@
 
 <br>
 <br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=NCDINOS.ncdinosgit" /> 
+
 <p align="Center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=NCDINOS.ncdinosgit" />&nbsp;
   <img src="https://img.shields.io/github/followers/ncdinosgit?style=social" />&nbsp;&nbsp; <br>
