@@ -4,7 +4,7 @@
 <!-- NC DINOS Data teams solve the baseball's toughest problems using data and AI -->
 <br>
 
-<h3 align="Center"> 🛠 Tech Stack 🛠 </h3>
+<h3 align="Center"> Tech Stack </h3>
 
 <p align="Center">
   <img src="https://img.shields.io/badge/-Python-FFF?&logo=Python" />
