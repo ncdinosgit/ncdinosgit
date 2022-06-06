@@ -1,16 +1,47 @@
-### Hi there 👋
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=NC%20DINOS&fontAlign=80&fontAlignY=40&color=gradient)
 
-<!--
-**ncdinosgit/ncdinosgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align='Center'> Hi 👋, We're Baseball Data Analytics Team ⚾👨🏻🧑🏻🧒🏻👧🏻👦🏻👩🏻 </h1>
+<!-- NC DINOS Data teams solve the baseball's toughest problems using data and AI -->
+<br>
 
-Here are some ideas to get you started:
+<h3 align="Center"> 🛠 Tech Stack 🛠 </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="Center">
+  <img src="https://img.shields.io/badge/-Python-FFF?&logo=Python" />
+  <img src="https://img.shields.io/badge/-R-FFF?&logo=R&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-SQL-FFF?&logo=MySQL&logoColor=navy" />
+  <img src="https://img.shields.io/badge/-Pandas-FFF?&logo=Pandas&logoColor=navy" />
+  <img src="https://img.shields.io/badge/-numpy-FFF?&logo=numpy&logoColor=blue" />
+  <img src="https://img.shields.io/badge/-scikit--learn-FFF?&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/-SciPy-FFF?&logo=scipy" />
+<br>
+  <img src="https://img.shields.io/badge/-TensorFlow-FFF?&logo=TensorFlow" />
+  <img src="https://img.shields.io/badge/-Keras-FFF?&logo=Keras&logoColor=darkred" />
+  <img src="https://img.shields.io/badge/-PyTorch-FFF?&logo=PyTorch" />
+  
+  <img src="https://img.shields.io/badge/-Git-FFF?&logo=Git" />
+  <img src="https://img.shields.io/badge/-MySQL-FFF?&logo=MySQL&logoColor=navy" />
+  <img src="https://img.shields.io/badge/-VS%20Code-FFF?&logo=VSCode" />
+  <img src="https://img.shields.io/badge/-Jupyter-FFF?&logo=Jupyter" />
+</p>
+
+<br>
+<br>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=NCDINOS.ncdinosgit" /> 
+<p align="Center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=NCDINOS.ncdinosgit" />&nbsp;
+  <img src="https://img.shields.io/github/followers/ncdinosgit?style=social" />&nbsp;&nbsp; <br>
+</p>
+
+<h2> </h2>
+<p align='Right'>
+  <i>Copyright 2022 © NC Dinos Baseball Datateam. All Rights Reserved.</i>
+</p>
+
+<!-- <h2> </h2>
+<p align="Right">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ncdinosgit" alt="visitor badge"/>&nbsp;
+  <img src="https://img.shields.io/github/followers/ncdinosgit?style=social" />&nbsp;&nbsp; <br>
+  <i>Copyright 2022 © NC Dinos Baseball Datateam. All Rights Reserved.</i>
+</p> -->
+
