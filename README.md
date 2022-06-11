@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=NC%20DINOS&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=NC%20DINOS&fontAlign=80&fontAlignY=40&color=gradient&customColorList=1,2,3,4)
 
 <h1 align='Center'> Hi 👋, We're Baseball Data Analytics Team ⚾👨🏻🧑🏻🧒🏻👧🏻👦🏻👩🏻 </h1>
 <!-- NC DINOS Data teams solve the baseball's toughest problems using data and AI -->
@@ -29,9 +29,10 @@
 <br>
 
 <p align="Center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=NCDINOS.ncdinosgit" />&nbsp;
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fncdinosgit&count_bg=%231e84bd&title_bg=%235d5d5d&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a> &nbsp;
   <img src="https://img.shields.io/github/followers/ncdinosgit?style=social" />&nbsp;&nbsp; <br>
 </p>
+
 
 <h2> </h2>
 <p align='Right'>
@@ -45,3 +46,5 @@
   <i>Copyright 2022 © NC Dinos Baseball Datateam. All Rights Reserved.</i>
 </p> -->
 
+<!-- 1e84bd -->
+<!-- 2956a5 -->
