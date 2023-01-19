@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=NC%20DINOS&fontAlign=80&fontAlignY=40&color=gradient&customColorList=1,2,3,4)
 
-<h1 align='Center'> Hi 👋, We're Baseball Data Analytics Team ⚾👨🏻🧑🏻🧒🏻👧🏻👦🏻👩🏻 </h1>
+<h1 align='Center'> Hi 👋, We're Baseball Data Analytics Team ⚾👨🏻🧑🏻🧒🏻👧🏻👦🏻🏻 </h1>
 <!-- NC DINOS Data teams solve the baseball's toughest problems using data and AI -->
 <br>
 
